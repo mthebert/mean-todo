@@ -4,7 +4,12 @@
   "description": "simple todo app",
   "main": "server.js",
   "author": "matt@thebert.com",
+  "repository": "https://github.com/mthebert/mean-todo.git",
   "dependencies": {
-    "express": "^4.11.2"
+    "body-parser": "^1.11.0",
+    "express": "^4.11.2",
+    "method-override": "^2.3.1",
+    "mongoose": "^3.8.23",
+    "morgan": "^1.5.1"
   }
 }

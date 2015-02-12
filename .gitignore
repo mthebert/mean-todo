@@ -2,5 +2,6 @@
 .DS_STORE
 !.gitkeep
 node_modules
+npm-debug.log
 desktop.ini
 thumbs.db
