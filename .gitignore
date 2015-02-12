@@ -1,0 +1,6 @@
+.idea
+.DS_STORE
+!.gitkeep
+node_modules
+desktop.ini
+thumbs.db
